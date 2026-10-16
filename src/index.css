@@ -1,0 +1,4 @@
+@import "tailwindcss";
+html, body, #root { min-height: 100%; margin: 0; background: #020617; }
+body { overscroll-behavior: none; -webkit-tap-highlight-color: transparent; }
+button, select, input { touch-action: manipulation; }
